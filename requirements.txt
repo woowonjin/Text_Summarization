@@ -1,0 +1,6 @@
+torch
+transformers
+scikit-learn
+kss
+conda install ignite -c pytorch
+pip install pytorch-ignite
