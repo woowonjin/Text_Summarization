@@ -1,2 +1,7 @@
 # Text_Summarization
-Text_Summarization
+
+### 결과 -> 실패
+- Text Summarization이라는 task에 한번 처음부터 도전을 해봤다. 모델도 스스로 공부해보며 만들었지만, 왜인지 데이터셋에서 말썽이 일어나는것 같다.
+- 이 부분에 대해서는 공부를 더 하여 수정이 필요하다고 생각된다.
+
+
